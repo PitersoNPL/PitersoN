@@ -12,6 +12,8 @@
 <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0a3/jquery.mobile-1.0a3.min.css" />
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.0a3/jquery.mobile-1.0a3.min.js"></script
+  
+<link href="mobile.css" rel="stylesheet" type="text/css" media="handheld" />
 
 </head> 
 
