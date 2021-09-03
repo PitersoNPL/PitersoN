@@ -1,6 +1,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl"> 
 
 <link href="mobile.css" rel="stylesheet" type="text/css" media="handheld" />
+  
+<iframe src ="https://pitersonpl.github.io/PitersoN/" width="240" height="320" style="border: 1px solid;"> </iframe>
 
 <head> 
 
