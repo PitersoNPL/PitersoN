@@ -81,7 +81,6 @@ Strona została zbudowana z wykorzystaniem biblioteki jQuery Mobile</p>
 <h4>Stopka</h4>
 <p align="right">copyright <a href="https://www.instagram.com/piterson_25/" rel="external">piteson_25</a> </p>
 </footer>
-</div>
   
 
 
