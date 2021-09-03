@@ -1,5 +1,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl"> 
 
+<link href="mobile.css" rel="stylesheet" type="text/css" media="handheld" />
+
 <head> 
 
 <meta name="Description" content="Opis Twojej strony dla wyszukiwarek" /> 
